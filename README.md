@@ -8,8 +8,7 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 
 ## 📸 Screenshots  
 🏠 **Home / Index Page**  
-![Homepage Screenshot](/img/homepage.png)
-
+<img width="1882" alt="Screenshot 2025-07-12 210351" src="https://github.com/user-attachments/assets/341a2ca9-7857-440b-811a-b6723ce1a4d9" />
 
 🛍️ **Shop by Category Section**  
 ![Category Screenshot](./img/category.png)  
