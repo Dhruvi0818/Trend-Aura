@@ -8,7 +8,7 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 
 ## 📸 Screenshots  
 🏠 **Home / Index Page**  
-![Uploading Screenshot 2025-08-22 125946.png…]()
+![Homepage Screenshot](/img/homepage.png)
 
 
 🛍️ **Shop by Category Section**  
