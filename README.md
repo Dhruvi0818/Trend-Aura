@@ -19,8 +19,6 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 <br>
 <img width="1893" height="905" alt="Screenshot 2025-08-22 130055" src="https://github.com/user-attachments/assets/c34f9ecb-f010-4142-ad54-e33f02f6172e"/>  
 
-_(Replace above image paths with your actual screenshots in the `img/` folder)_
-
 ---
 
 ## 🌐 Live Features  
