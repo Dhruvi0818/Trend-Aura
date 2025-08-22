@@ -1,4 +1,4 @@
-# TrendAura 👗✨  
+<img width="1893" height="905" alt="Screenshot 2025-08-22 130055" src="https://github.com/user-attachments/assets/4dd4db4e-c76b-4e93-b654-651c2bb92c67" /><img width="1888" height="889" alt="Screenshot 2025-08-22 130009" src="https://github.com/user-attachments/assets/80dc506e-ee88-42ed-b3aa-ca8eb4697ec8" /># TrendAura 👗✨  
 _A Modern Fashion E-commerce Web Portal_
 
 **TrendAura** is a stylish and user-friendly fashion platform that brings together the latest trends in clothing, footwear, and accessories.  
@@ -11,13 +11,10 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 <img width="1895" height="909" alt="Screenshot 2025-08-22 125946" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>
 
 🛍️ **Shop by Category Section**  
-<img width="1895" height="909" alt="Uploading Screenshot 2025-08-22 130009.png" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
+<img width="1895" height="909" alt="Screenshot 2025-08-22 130009.png" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
 
 🔥 **New Arrivals & Kids Collection Section**  
-<img width="1895" height="909" alt="Uploading Screenshot 2025-08-22 130055.png" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
-
-👶 ** Section**  
-<img width="1895" height="909" alt="Screenshot 2025-08-22 125946" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
+<img width="1895" height="909" alt="Screenshot 2025-08-22 130055.png" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
 
 _(Replace above image paths with your actual screenshots in the `img/` folder)_
 
