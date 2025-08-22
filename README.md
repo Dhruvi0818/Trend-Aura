@@ -1,4 +1,4 @@
-<img width="1888" height="889" alt="Screenshot 2025-08-22 130009" src="https://github.com/user-attachments/assets/f8b8b80f-8134-4fa8-aeb6-fca37c145706" /># TrendAura 👗✨  
+ # TrendAura 👗✨  
 _A Modern Fashion E-commerce Web Portal_
 
 **TrendAura** is a stylish and user-friendly fashion platform that brings together the latest trends in clothing, footwear, and accessories.  
@@ -11,7 +11,7 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 <img width="1895" height="909" alt="Screenshot 2025-08-22 125946" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>
 
 🛍️ **Shop by Category Section**  
-<img width="1895" height="909" alt="Uploading Screenshot 2025-08-22 130009.png" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
+<img width="1888" height="889" alt="Screenshot 2025-08-22 130009" src="https://github.com/user-attachments/assets/f8b8b80f-8134-4fa8-aeb6-fca37c145706"/>  
 
 🔥 **New Arrivals & Kids Collection Section**  
 <img width="1895" height="909" alt="Screenshot 2025-08-22 130009" src="https://github.com/user-attachments/assets/1d960100-0c18-4f5e-aa7b-4f3e618de794"/>  
