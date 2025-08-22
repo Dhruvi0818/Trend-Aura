@@ -8,7 +8,8 @@ This all-in-one web portal allows users to browse categories, explore new arriva
 
 ## 📸 Screenshots  
 🏠 **Home / Index Page**  
-![Homepage Screenshot]("C:\Users\Dhruvi\OneDrive\Pictures\Screenshots\Screenshot 2025-08-22 125946.png")  
+![Uploading Screenshot 2025-08-22 125946.png…]()
+
 
 🛍️ **Shop by Category Section**  
 ![Category Screenshot](./img/category.png)  
